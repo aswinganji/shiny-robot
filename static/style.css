@@ -1,0 +1,24 @@
+body{
+    background-image:url(../static/bg5img.png);
+    background-size:cover;
+    text-align:center;
+}
+
+h1{
+    font-size:45px;
+    color:white;
+}
+
+.logo{
+    height:150px;
+    width:150px;
+}
+
+.button_form:hover{
+    opacity:0.5;
+}
+
+.btn {
+    font-size: 20px;
+    letter-spacing:2;
+}
